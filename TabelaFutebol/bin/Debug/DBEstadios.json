@@ -1,0 +1,133 @@
+{
+  "Ultimo ID": 18,
+  "Estadios": [
+    {
+      "ID": 1,
+      "Nome": "Arena da Baixada",
+      "IDTimes": [
+        1
+      ]
+    },
+    {
+      "ID": 2,
+      "Nome": "Independência",
+      "IDTimes": [
+        2
+      ]
+    },
+    {
+      "ID": 3,
+      "Nome": "Ressacada",
+      "IDTimes": [
+        3
+      ]
+    },
+    {
+      "ID": 4,
+      "Nome": "Arena Fonte Nova",
+      "IDTimes": [
+        4
+      ]
+    },
+    {
+      "ID": 5,
+      "Nome": "Nilton Santos",
+      "IDTimes": [
+        5
+      ]
+    },
+    {
+      "ID": 6,
+      "Nome": "Arena Castelão",
+      "IDTimes": [
+        6,
+        13
+      ]
+    },
+    {
+      "ID": 7,
+      "Nome": "Arena Condá",
+      "IDTimes": [
+        7
+      ]
+    },
+    {
+      "ID": 8,
+      "Nome": "Arena Corinthians",
+      "IDTimes": [
+        8
+      ]
+    },
+    {
+      "ID": 9,
+      "Nome": "Mineirão",
+      "IDTimes": [
+        9
+      ]
+    },
+    {
+      "ID": 10,
+      "Nome": "Rei Pelé",
+      "IDTimes": [
+        10
+      ]
+    },
+    {
+      "ID": 11,
+      "Nome": "Maracanã",
+      "IDTimes": [
+        11,
+        12
+      ]
+    },
+    {
+      "ID": 12,
+      "Nome": "Serra Dourada",
+      "IDTimes": [
+        14
+      ]
+    },
+    {
+      "ID": 13,
+      "Nome": "Arena do Grêmio",
+      "IDTimes": [
+        15
+      ]
+    },
+    {
+      "ID": 14,
+      "Nome": "Beira-Rio",
+      "IDTimes": [
+        16
+      ]
+    },
+    {
+      "ID": 15,
+      "Nome": "Allianz Parque",
+      "IDTimes": [
+        17
+      ]
+    },
+    {
+      "ID": 16,
+      "Nome": "Vila Belmiro",
+      "IDTimes": [
+        18
+      ]
+    },
+    {
+      "ID": 17,
+      "Nome": "Morumbi",
+      "IDTimes": [
+        19
+      ]
+    },
+    {
+      "ID": 18,
+      "Nome": "São Januário",
+      "IDTimes": [
+        20
+      ]
+    }
+  ]
+}
